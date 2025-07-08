@@ -1,0 +1,16 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+kpt_shape: [4, 3]
+flip_idx: [0, 1, 2, 3]
+
+nc: 1
+names: ['court']
+
+roboflow:
+  workspace: primaryws
+  project: volleyball_court_keypoints_regression_dataset
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/primaryws/volleyball_court_keypoints_regression_dataset/dataset/6
