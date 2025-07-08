@@ -4,7 +4,7 @@ The dataset has been annotated precisely to train a [yolov8x](https://www.kaggle
 This dataset is part of three datasets (the other two for volleyball players and referee object detection and volleyball court key points regression) used to train yolov8x models for [my project](https://github.com/PythoneerSamurai/computer-vision-projects/tree/master/key-points-regression/yolov8x-supervision-advance-volleyball-analysis).
 
 # Versions
-This dataset has two versions, one has RGB images (uploaded on Kaggle) and the other has grayscale images.
+This dataset has two versions, one has RGB images (uploaded on GitHub) and the other has grayscale images.
 For the other versions and formats of this dataset visit my [Roboflow account](https://universe.roboflow.com/primaryws/volleyball_ball_object_detection_dataset).
 The best yolov8x model (linked above) was trained on the version of this dataset uploaded on my Kaggle.
 
