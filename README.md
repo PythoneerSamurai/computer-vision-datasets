@@ -1,7 +1,8 @@
 # Computer Vision Datasets
 
 This repository houses my computer vision datasets. All datasets presently uploaded, and to be uploaded in the future, are high-quality and annotated with precision.
-Do star ⭐ the repository if you find my datasets useful.
+
+If you find my datasets useful, do star ⭐ this repository and give an upvote ⬆️ to the datasets on my Kaggle.
 
 ---
 
